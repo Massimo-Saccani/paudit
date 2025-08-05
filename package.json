@@ -1,6 +1,6 @@
 {
   "name": "paudit",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Checks for duplicate, unused, and outdated dependencies in package.json",
   "main": "index.js",
   "bin": {
@@ -21,10 +21,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/USERNAME/paudit.git"
+    "url": "git+https://github.com/supergiovane/paudit.git"
   },
   "bugs": {
-    "url": "https://github.com/USERNAME/paudit/issues"
+    "url": "https://github.com/supergiovane/paudit/issues"
   },
-  "homepage": "https://github.com/USERNAME/paudit#readme"
+  "homepage": "https://github.com/supergiovane/paudit#readme"
 }
