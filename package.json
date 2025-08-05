@@ -18,5 +18,13 @@
   "license": "MIT",
   "dependencies": {
     "ora": "^8.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/USERNAME/paudit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/USERNAME/paudit/issues"
+  },
+  "homepage": "https://github.com/USERNAME/paudit#readme"
 }
